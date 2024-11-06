@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Azure Cloud**
+- 🔭 I’m currently working on **Azure Cloud**, **Java**
 
 - 🌱 I’m currently learning **DevOps, Framework**
 
